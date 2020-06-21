@@ -1,10 +1,131 @@
 {
-"posts":[
-  {
-    "userId": 10,
-    "id": 98,
-    "title": "laboriosam dolor voluptates",
-    "body": "doloremque ex facilis sit sint culpa\nsoluta assumenda eligendi non ut eius\nsequi ducimus vel quasi\nveritatis est dolores"
-  }
+"geo": [
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "50.0160921, -105.2812196"}
+{"type": "Point","coordinates": "30.0160921, -105.2812196"}
+{"type": "Point","coordinates": "70.0160921, -105.2812196"}
+{"type": "Point","coordinates": "20.0160921, -105.2812196"}
+{"type": "Point","coordinates": "60.0160921, -105.2812196"}
+{"type": "Point","coordinates": "80.0160921, -105.2812196"}
+{"type": "Point","coordinates": "60.0160921, -105.2812196"}
+{"type": "Point","coordinates": "50.0160921, -105.2812196"}
+{"type": "Point","coordinates": "60.0160921, -105.2812196"}
+{"type": "Point","coordinates": "47.0160921, -105.2812196"}
+{"type": "Point","coordinates": "47.0160921, -105.2812196"}
+{"type": "Point","coordinates": "49.0160921, -105.2812196"}
+{"type": "Point","coordinates": "49.0160921, -105.2812196"}
+{"type": "Point","coordinates": "49.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+{"type": "Point","coordinates": "40.0160921, -105.2812196"}
+    ],
+"hashtag":[
+
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
+	 {"text": "PGP", "indices": "130,134"}
 ]
-}
+    }
